@@ -11,7 +11,7 @@ pi install npm:pi-opencode-theme
 Or from GitHub:
 
 ```bash
-pi install git:github.com/<your-username>/pi-opencode-theme
+pi install git:github.com/cruzluna/pi-opencode-theme
 ```
 
 ## Use
