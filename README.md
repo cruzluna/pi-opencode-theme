@@ -2,8 +2,7 @@
 
 An opencode-inspired theme for [pi](https://pi.dev).
 
-Package: https://pi.dev/packages/pi-opencode-theme
-NPM: https://www.npmjs.com/package/pi-opencode-theme
+
 
 ## Install
 
@@ -34,3 +33,11 @@ pi -e /absolute/path/to/pi-opencode-theme
 ```
 
 Then select `opencode` in `/settings`.
+
+---
+ 
+
+Links:
+
+- [Pi package](https://pi.dev/packages/pi-opencode-theme)
+- [NPM package](https://www.npmjs.com/package/pi-opencode-theme)
