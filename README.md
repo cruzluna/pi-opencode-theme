@@ -2,6 +2,9 @@
 
 An opencode-inspired theme for [pi](https://pi.dev).
 
+Package: https://pi.dev/packages/pi-opencode-theme
+NPM: https://www.npmjs.com/package/pi-opencode-theme
+
 ## Install
 
 ```bash
