@@ -34,7 +34,7 @@ pi -e /absolute/path/to/pi-opencode-theme
 
 Then select `opencode` in `/settings`.
 
-## Building on OpenCode
+## Disclaimer
 
 This theme is inspired by OpenCode, but it is not built, maintained, endorsed, or affiliated with the OpenCode team.
 
