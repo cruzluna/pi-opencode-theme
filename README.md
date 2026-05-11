@@ -1,5 +1,8 @@
 # pi-opencode-theme
 
+[![npm version](https://img.shields.io/npm/v/pi-opencode-theme)](https://www.npmjs.com/package/pi-opencode-theme)
+[![npm downloads per week](https://img.shields.io/npm/dw/pi-opencode-theme?label=downloads%2Fweek)](https://www.npmjs.com/package/pi-opencode-theme)
+
 An opencode-inspired theme for [pi](https://pi.dev).
 
 
